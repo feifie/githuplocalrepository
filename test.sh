@@ -1,2 +1,7 @@
 name = 'suhua'
-print(name)
+if name = 'suhua':
+    print(name)
+else:
+    print('name is error')
+    
+
